@@ -106,6 +106,6 @@ This dataset is licensed under the [Creative Commons Attribution 4.0 Internation
 ## Contact
 
 For questions or collaborations, please contact:  
-**Dr. Nanik Suciati**  
+**Nanik Suciati**  
 Informatics Department, ITS  
 Email: nanik@its.ac.id
