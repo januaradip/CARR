@@ -1,0 +1,834 @@
+video_id,participant_code,location_name,class_name,frames,CS1,CS2,CS3,CS4,CL1,CL2,CL3,CL4,CG
+V0001,P00,Alif Store,No Interest,254,train,train,test,train,test,train,val,train,train
+V0002,P00,Alif Store,No Interest,260,train,train,test,train,test,train,train,val,train
+V0003,P00,Alif Store,No Interest,238,train,train,test,train,test,train,train,val,train
+V0004,P00,Alif Store,No Interest,195,train,train,test,train,test,train,train,train,train
+V0005,P00,Alif Store,No Interest,471,train,val,test,val,test,val,train,train,val
+V0006,P00,Alif Store,Picking and Putting,250,train,train,test,val,test,train,train,train,train
+V0007,P00,Alif Store,Picking and Putting,291,train,train,test,train,test,train,train,train,train
+V0008,P00,Alif Store,Picking and Putting,284,train,train,test,train,test,train,train,train,train
+V0009,P00,Alif Store,Picking and Returning,510,train,train,test,train,test,train,train,train,train
+V0010,P00,Alif Store,Picking and Returning,349,train,train,test,train,test,train,train,train,train
+V0011,P00,Alif Store,Picking and Returning,462,train,train,test,train,test,train,train,train,val
+V0012,P00,Alif Store,Picking and Returning,204,train,train,test,train,test,train,train,train,train
+V0014,P00,Alif Store,Picking and Returning,675,train,train,test,train,test,train,train,train,train
+V0015,P00,Alif Store,Touching,456,train,train,test,train,test,train,train,train,train
+V0016,P00,Alif Store,Touching,429,train,val,test,train,test,train,train,train,train
+V0017,P00,Alif Store,Touching,432,train,train,test,train,test,train,train,train,train
+V0018,P00,Alif Store,Touching,456,train,train,test,train,test,train,train,train,train
+V0019,P00,Alif Store,Turning To Shelf,458,train,train,test,train,test,train,train,train,train
+V0020,P00,Alif Store,Turning To Shelf,458,train,train,test,train,test,train,train,train,train
+V0021,P00,Alif Store,Turning To Shelf,441,train,train,test,train,test,train,train,train,train
+V0022,P00,Alif Store,Turning To Shelf,413,train,train,test,train,test,train,train,train,train
+V0023,P00,Alif Store,Viewing,208,train,train,test,train,test,train,train,train,train
+V0024,P00,Alif Store,Viewing,353,train,train,test,train,test,train,train,train,train
+V0025,P00,Alif Store,Viewing,289,train,train,test,train,test,train,train,train,train
+V0026,P00,Alif Store,Viewing,323,val,train,test,val,test,train,train,train,train
+V0027,P01,Alif Store,No Interest,267,train,train,train,train,test,train,train,train,train
+V0028,P01,Alif Store,No Interest,242,train,train,train,train,test,val,train,train,train
+V0029,P01,Alif Store,No Interest,258,train,train,train,train,test,train,val,val,train
+V0030,P01,Alif Store,No Interest,269,train,train,train,train,test,train,train,train,train
+V0031,P01,Alif Store,Picking and Putting,329,train,train,train,train,test,train,train,train,train
+V0032,P01,Alif Store,Picking and Putting,206,train,train,val,train,test,train,train,train,train
+V0033,P01,Alif Store,Picking and Putting,304,train,train,train,train,test,train,val,train,train
+V0034,P01,Alif Store,Picking and Putting,246,train,train,train,train,test,train,train,train,train
+V0035,P01,Alif Store,Picking and Putting,234,train,train,train,train,test,train,train,train,train
+V0036,P01,Alif Store,Picking and Returning,691,train,train,val,train,test,train,train,train,train
+V0037,P01,Alif Store,Picking and Returning,439,train,train,train,train,test,train,train,train,val
+V0038,P01,Alif Store,Picking and Returning,385,val,train,train,train,test,train,train,train,train
+V0039,P01,Alif Store,Picking and Returning,411,train,train,train,train,test,train,train,train,train
+V0040,P01,Alif Store,Touching,718,train,train,train,train,test,train,train,train,train
+V0041,P01,Alif Store,Touching,443,train,train,train,train,test,train,train,train,train
+V0042,P01,Alif Store,Touching,462,train,train,train,val,test,train,train,train,train
+V0043,P01,Alif Store,Touching,442,train,train,train,train,test,train,train,train,train
+V0044,P01,Alif Store,Touching,56,train,train,train,train,test,val,train,train,train
+V0045,P01,Alif Store,Turning To Shelf,670,train,train,train,train,test,train,train,train,train
+V0046,P01,Alif Store,Turning To Shelf,440,train,train,train,train,test,train,train,train,train
+V0047,P01,Alif Store,Turning To Shelf,462,train,train,train,train,test,train,train,train,train
+V0048,P01,Alif Store,Turning To Shelf,360,train,train,val,train,test,train,train,train,train
+V0049,P01,Alif Store,Viewing,416,train,train,val,train,test,train,val,train,train
+V0050,P01,Alif Store,Viewing,293,train,train,val,train,test,train,train,train,train
+V0051,P01,Alif Store,Viewing,315,train,train,train,train,test,train,train,train,train
+V0052,P01,Alif Store,Viewing,257,train,train,train,train,test,train,train,train,train
+V0053,P02,Alif Store,No Interest,506,test,train,train,train,test,train,train,val,train
+V0054,P02,Alif Store,No Interest,216,test,train,train,val,test,train,val,train,train
+V0055,P02,Alif Store,No Interest,262,test,train,train,train,test,train,train,train,train
+V0056,P02,Alif Store,Picking and Putting,248,test,train,train,train,test,train,train,train,train
+V0057,P02,Alif Store,Picking and Putting,253,test,train,train,train,test,train,train,train,train
+V0058,P02,Alif Store,Picking and Putting,290,test,val,train,train,test,train,train,train,train
+V0059,P02,Alif Store,Picking and Putting,134,test,train,train,train,test,train,train,train,train
+V0060,P02,Alif Store,Picking and Putting,99,test,train,train,train,test,train,train,train,val
+V0061,P02,Alif Store,Picking and Putting,241,test,train,train,train,test,train,train,train,train
+V0062,P02,Alif Store,Picking and Returning,292,test,train,train,train,test,train,train,train,train
+V0063,P02,Alif Store,Picking and Returning,352,test,train,train,train,test,train,train,train,train
+V0064,P02,Alif Store,Picking and Returning,8,test,train,train,train,test,train,train,train,train
+V0065,P02,Alif Store,Picking and Returning,530,test,val,train,train,test,train,train,train,val
+V0066,P02,Alif Store,Picking and Returning,414,test,train,train,train,test,train,train,train,train
+V0067,P02,Alif Store,Touching,410,test,train,train,train,test,train,train,train,train
+V0068,P02,Alif Store,Touching,551,test,val,train,train,test,train,train,train,train
+V0069,P02,Alif Store,Touching,545,test,val,train,train,test,train,train,train,train
+V0070,P02,Alif Store,Touching,422,test,train,train,train,test,train,train,train,train
+V0071,P02,Alif Store,Turning To Shelf,448,test,train,train,train,test,val,train,train,train
+V0072,P02,Alif Store,Turning To Shelf,430,test,train,train,train,test,train,train,train,train
+V0073,P02,Alif Store,Turning To Shelf,456,test,train,train,train,test,train,train,train,train
+V0074,P02,Alif Store,Turning To Shelf,423,test,train,val,train,test,val,train,train,train
+V0075,P02,Alif Store,Viewing,343,test,train,train,train,test,val,val,val,val
+V0076,P02,Alif Store,Viewing,318,test,train,train,train,test,train,train,train,train
+V0077,P02,Alif Store,Viewing,336,test,val,train,val,test,train,train,train,train
+V0078,P02,Alif Store,Viewing,250,test,train,train,train,test,train,train,train,train
+V0079,P04,Budi Jaya Store,Picking and Putting,233,test,train,val,train,train,train,train,test,train
+V0080,P04,Budi Jaya Store,Picking and Putting,232,test,train,train,train,train,train,train,test,train
+V0081,P04,Budi Jaya Store,Picking and Putting,175,test,train,val,train,train,train,train,test,train
+V0082,P04,Budi Jaya Store,Picking and Putting,256,test,val,train,train,train,val,train,test,train
+V0083,P04,Budi Jaya Store,Picking and Putting,162,test,train,train,train,train,val,train,test,train
+V0084,P04,Budi Jaya Store,Picking and Returning,150,test,train,train,train,train,train,train,test,train
+V0085,P04,Budi Jaya Store,Picking and Returning,261,test,train,train,train,train,train,train,test,train
+V0086,P04,Budi Jaya Store,Picking and Returning,377,test,train,train,train,train,train,train,test,train
+V0087,P04,Budi Jaya Store,Picking and Returning,278,test,train,train,train,val,train,train,test,train
+V0088,P04,Budi Jaya Store,Picking and Returning,202,test,train,train,train,train,train,train,test,train
+V0089,P04,Budi Jaya Store,Picking and Returning,252,test,train,val,train,val,train,train,test,train
+V0090,P04,Budi Jaya Store,Picking and Returning,313,test,train,train,train,train,train,train,test,val
+V0091,P04,Budi Jaya Store,Turning To Shelf,133,test,train,train,train,train,train,train,test,train
+V0092,P04,Budi Jaya Store,Turning To Shelf,242,test,train,train,train,train,train,train,test,train
+V0093,P04,Budi Jaya Store,Turning To Shelf,260,test,val,val,train,train,train,train,test,train
+V0094,P04,Budi Jaya Store,Turning To Shelf,306,test,val,train,train,train,train,train,test,train
+V0095,P04,Budi Jaya Store,Turning To Shelf,142,test,train,train,train,train,train,train,test,train
+V0096,P04,Budi Jaya Store,Turning To Shelf,165,test,train,train,train,train,train,train,test,train
+V0097,P04,Budi Jaya Store,Turning To Shelf,328,test,train,train,train,train,train,train,test,val
+V0098,P04,Budi Jaya Store,Turning To Shelf,290,test,train,train,train,train,train,train,test,train
+V0099,P04,Budi Jaya Store,Viewing,286,test,train,train,train,train,train,train,test,train
+V0100,P04,Budi Jaya Store,Viewing,247,test,train,train,val,train,val,train,test,train
+V0101,P04,Budi Jaya Store,Viewing,211,test,train,train,train,train,train,train,test,val
+V0102,P04,Budi Jaya Store,Viewing,290,test,train,train,train,train,train,train,test,train
+V0103,P01,Budi Jaya Store,No Interest,625,val,train,train,train,train,val,train,test,train
+V0104,P01,Budi Jaya Store,No Interest,409,train,train,train,train,train,train,train,test,train
+V0105,P01,Budi Jaya Store,No Interest,293,train,train,train,train,val,train,train,test,train
+V0106,P01,Budi Jaya Store,No Interest,365,train,train,train,train,train,train,train,test,train
+V0107,P01,Budi Jaya Store,No Interest,335,train,train,train,train,train,train,train,test,train
+V0108,P01,Budi Jaya Store,No Interest,353,train,train,train,train,train,train,train,test,train
+V0109,P01,Budi Jaya Store,Picking and Putting,317,train,train,train,train,train,train,train,test,val
+V0110,P01,Budi Jaya Store,Picking and Putting,241,val,train,train,train,train,val,train,test,train
+V0111,P01,Budi Jaya Store,Picking and Putting,270,train,train,train,train,val,train,train,test,train
+V0112,P01,Budi Jaya Store,Picking and Putting,203,train,train,train,train,train,train,train,test,train
+V0113,P01,Budi Jaya Store,Picking and Putting,283,train,train,train,train,train,train,train,test,val
+V0114,P01,Budi Jaya Store,Picking and Putting,207,train,train,train,train,train,train,train,test,train
+V0115,P01,Budi Jaya Store,Picking and Putting,242,train,train,train,val,train,train,train,test,train
+V0116,P01,Budi Jaya Store,Picking and Putting,193,train,train,train,train,train,train,train,test,train
+V0117,P01,Budi Jaya Store,Picking and Putting,233,train,train,val,val,train,train,train,test,train
+V0118,P01,Budi Jaya Store,Touching,989,train,train,train,train,train,val,train,test,train
+V0119,P01,Budi Jaya Store,Touching,382,train,train,train,train,train,train,train,test,train
+V0120,P01,Budi Jaya Store,Touching,441,train,train,train,train,train,train,train,test,train
+V0121,P01,Budi Jaya Store,Touching,404,train,train,train,train,train,train,train,test,train
+V0122,P01,Budi Jaya Store,Touching,369,train,train,train,train,train,train,train,test,train
+V0123,P01,Budi Jaya Store,Touching,451,train,train,train,train,train,val,train,test,train
+V0124,P01,Budi Jaya Store,Turning To Shelf,360,train,train,val,val,val,train,train,test,train
+V0125,P01,Budi Jaya Store,Turning To Shelf,396,train,train,train,train,val,train,train,test,train
+V0126,P01,Budi Jaya Store,Turning To Shelf,401,train,train,train,train,train,train,train,test,train
+V0127,P01,Budi Jaya Store,Turning To Shelf,415,train,train,train,train,train,train,train,test,train
+V0128,P01,Budi Jaya Store,Turning To Shelf,465,train,train,train,train,train,train,train,test,train
+V0129,P01,Budi Jaya Store,Turning To Shelf,388,train,train,train,val,train,train,train,test,train
+V0130,P01,Budi Jaya Store,Viewing,515,train,train,val,train,val,train,train,test,train
+V0131,P01,Budi Jaya Store,Viewing,391,train,train,val,train,train,train,train,test,train
+V0132,P01,Budi Jaya Store,Viewing,334,train,val,train,train,train,train,val,test,train
+V0133,P01,Budi Jaya Store,Viewing,419,val,train,train,train,val,train,train,test,train
+V0134,P01,Budi Jaya Store,Viewing,582,train,train,train,val,train,train,train,test,train
+V0135,P01,Budi Jaya Store,Viewing,385,train,train,train,train,val,train,train,test,train
+V0136,P01,Budi Jaya Store,Viewing,286,train,train,val,train,train,train,val,test,train
+V0137,P03,Budi Jaya Store,No Interest,173,train,val,train,train,train,train,train,test,train
+V0138,P03,Budi Jaya Store,No Interest,71,val,train,train,train,train,train,train,test,train
+V0139,P03,Budi Jaya Store,No Interest,274,train,train,train,train,train,val,train,test,val
+V0140,P03,Budi Jaya Store,No Interest,165,train,train,train,train,train,train,train,test,train
+V0141,P03,Budi Jaya Store,No Interest,257,train,train,train,train,train,train,val,test,train
+V0142,P03,Budi Jaya Store,No Interest,236,train,train,train,train,val,train,train,test,train
+V0143,P03,Budi Jaya Store,Picking and Returning,59,train,train,train,train,train,train,train,test,train
+V0144,P03,Budi Jaya Store,Picking and Returning,171,train,train,train,train,train,train,train,test,train
+V0145,P03,Budi Jaya Store,Picking and Returning,199,train,train,val,val,train,train,train,test,train
+V0146,P03,Budi Jaya Store,Picking and Returning,174,train,train,train,train,val,train,val,test,train
+V0147,P03,Budi Jaya Store,Touching,49,train,train,train,train,train,train,val,test,train
+V0148,P03,Budi Jaya Store,Touching,119,train,train,train,train,train,train,train,test,train
+V0149,P03,Budi Jaya Store,Touching,239,train,train,train,train,train,train,train,test,train
+V0150,P03,Budi Jaya Store,Touching,188,val,val,train,train,train,train,train,test,train
+V0151,P03,Budi Jaya Store,Touching,60,train,train,train,train,train,train,train,test,train
+V0152,P03,Budi Jaya Store,Touching,294,train,train,train,val,train,train,train,test,train
+V0153,P03,Budi Jaya Store,Touching,74,train,train,val,train,train,train,train,test,train
+V0154,P03,Budi Jaya Store,Viewing,273,val,train,train,train,train,train,train,test,train
+V0155,P01,Hafidz 1 Store,No Interest,430,val,train,train,train,test,train,val,train,train
+V0156,P01,Hafidz 1 Store,No Interest,489,train,train,train,train,test,val,train,train,train
+V0157,P01,Hafidz 1 Store,No Interest,415,train,train,train,train,test,train,train,val,train
+V0158,P01,Hafidz 1 Store,No Interest,408,train,train,train,train,test,train,train,train,val
+V0159,P01,Hafidz 1 Store,No Interest,395,train,train,train,train,test,train,train,train,train
+V0160,P01,Hafidz 1 Store,No Interest,446,train,train,train,train,test,train,train,train,train
+V0161,P01,Hafidz 1 Store,Picking and Returning,696,train,train,train,val,test,train,train,train,train
+V0162,P01,Hafidz 1 Store,Picking and Returning,469,val,train,train,train,test,train,train,val,train
+V0163,P01,Hafidz 1 Store,Picking and Returning,512,train,train,train,train,test,train,train,train,train
+V0164,P01,Hafidz 1 Store,Picking and Returning,479,train,train,train,train,test,train,train,train,val
+V0165,P01,Hafidz 1 Store,Picking and Returning,385,train,train,train,train,test,train,train,train,train
+V0166,P01,Hafidz 1 Store,Picking and Returning,397,train,train,train,train,test,train,train,train,train
+V0167,P01,Hafidz 1 Store,Touching,520,train,train,val,train,test,train,train,train,train
+V0168,P01,Hafidz 1 Store,Touching,524,train,train,val,train,test,train,val,train,train
+V0169,P01,Hafidz 1 Store,Touching,461,val,train,train,train,test,train,train,train,train
+V0170,P01,Hafidz 1 Store,Touching,435,train,train,train,train,test,train,val,train,train
+V0171,P01,Hafidz 1 Store,Touching,597,train,train,val,train,test,train,train,train,train
+V0172,P01,Hafidz 1 Store,Viewing,718,train,train,train,val,test,train,train,train,train
+V0173,P05,Hafidz 1 Store,No Interest,284,train,test,val,train,test,train,train,train,train
+V0174,P05,Hafidz 1 Store,No Interest,251,train,test,val,train,test,train,train,train,train
+V0175,P05,Hafidz 1 Store,No Interest,277,train,test,train,train,test,train,train,train,train
+V0176,P05,Hafidz 1 Store,No Interest,511,train,test,val,train,test,train,train,train,train
+V0177,P05,Hafidz 1 Store,No Interest,152,train,test,train,train,test,train,train,train,val
+V0178,P05,Hafidz 1 Store,No Interest,404,train,test,train,train,test,train,train,train,train
+V0179,P05,Hafidz 1 Store,Picking and Putting,255,train,test,train,train,test,train,train,train,train
+V0180,P05,Hafidz 1 Store,Picking and Putting,334,train,test,train,train,test,train,train,train,train
+V0181,P05,Hafidz 1 Store,Picking and Putting,281,train,test,train,train,test,val,train,train,train
+V0182,P05,Hafidz 1 Store,Picking and Putting,282,train,test,train,train,test,train,train,train,val
+V0183,P05,Hafidz 1 Store,Picking and Putting,107,train,test,train,train,test,train,train,train,train
+V0184,P05,Hafidz 1 Store,Picking and Putting,174,train,test,train,train,test,train,train,train,train
+V0185,P05,Hafidz 1 Store,Picking and Putting,348,train,test,val,train,test,train,train,train,train
+V0186,P05,Hafidz 1 Store,Touching,452,train,test,train,train,test,train,train,train,train
+V0187,P05,Hafidz 1 Store,Touching,234,val,test,train,train,test,val,train,train,train
+V0188,P05,Hafidz 1 Store,Touching,114,train,test,train,val,test,train,train,train,train
+V0189,P05,Hafidz 1 Store,Touching,531,train,test,train,train,test,train,train,train,train
+V0190,P05,Hafidz 1 Store,Touching,445,train,test,train,train,test,train,train,train,train
+V0191,P05,Hafidz 1 Store,Touching,426,train,test,train,train,test,train,train,train,train
+V0192,P05,Hafidz 1 Store,Touching,367,train,test,train,train,test,train,train,val,train
+V0193,P05,Hafidz 1 Store,Turning To Shelf,495,train,test,train,train,test,train,train,train,train
+V0194,P05,Hafidz 1 Store,Turning To Shelf,350,train,test,train,train,test,val,train,train,train
+V0195,P05,Hafidz 1 Store,Turning To Shelf,115,train,test,train,train,test,train,train,train,train
+V0196,P05,Hafidz 1 Store,Turning To Shelf,471,val,test,train,train,test,train,train,train,train
+V0197,P05,Hafidz 1 Store,Turning To Shelf,426,train,test,val,train,test,train,train,train,train
+V0198,P05,Hafidz 1 Store,Turning To Shelf,427,train,test,train,train,test,train,train,train,train
+V0199,P05,Hafidz 1 Store,Turning To Shelf,221,train,test,train,train,test,val,train,val,val
+V0200,P05,Hafidz 1 Store,Viewing,415,train,test,train,train,test,train,train,train,val
+V0201,P05,Hafidz 1 Store,Viewing,248,val,test,train,train,test,train,train,train,train
+V0202,P05,Hafidz 1 Store,Viewing,311,train,test,train,train,test,train,val,train,train
+V0203,P05,Hafidz 1 Store,Viewing,169,train,test,train,train,test,train,train,train,train
+V0204,P05,Hafidz 1 Store,Viewing,283,train,test,train,train,test,train,train,train,train
+V0205,P05,Hafidz 1 Store,Viewing,327,train,test,train,train,test,train,train,train,val
+V0206,P05,Hafidz 1 Store,Viewing,356,train,test,train,train,test,train,train,train,train
+V0207,P05,Hafidz 1 Store,Viewing,287,train,test,train,train,test,val,train,train,train
+V0208,P03,Hafidz 1 Store,Picking and Putting,521,val,train,train,train,test,train,train,val,train
+V0209,P03,Hafidz 1 Store,Picking and Putting,278,train,train,train,val,test,train,train,train,train
+V0210,P03,Hafidz 1 Store,Picking and Putting,310,train,train,train,train,test,train,val,train,train
+V0211,P03,Hafidz 1 Store,Picking and Putting,296,train,train,val,train,test,train,train,train,train
+V0212,P03,Hafidz 1 Store,Picking and Putting,355,train,train,train,train,test,train,train,train,train
+V0213,P03,Hafidz 1 Store,Picking and Putting,272,train,train,train,train,test,train,val,train,train
+V0214,P03,Hafidz 1 Store,Picking and Returning,576,train,train,val,train,test,train,train,train,val
+V0215,P03,Hafidz 1 Store,Picking and Returning,431,train,train,train,train,test,train,train,val,train
+V0216,P03,Hafidz 1 Store,Picking and Returning,485,train,train,val,train,test,train,train,val,train
+V0217,P03,Hafidz 1 Store,Picking and Returning,488,train,train,train,train,test,train,val,val,train
+V0218,P03,Hafidz 1 Store,Picking and Returning,408,train,train,train,train,test,val,train,train,train
+V0219,P03,Hafidz 1 Store,Picking and Returning,449,train,train,train,train,test,train,train,train,train
+V0220,P03,Hafidz 1 Store,Turning To Shelf,720,train,train,val,train,test,val,train,train,train
+V0221,P03,Hafidz 1 Store,Turning To Shelf,375,train,val,train,train,test,train,train,train,train
+V0222,P03,Hafidz 1 Store,Turning To Shelf,434,val,train,train,train,test,val,train,train,train
+V0223,P03,Hafidz 1 Store,Turning To Shelf,455,train,train,train,train,test,train,val,train,train
+V0224,P03,Hafidz 1 Store,Turning To Shelf,462,train,train,train,train,test,train,train,train,train
+V0225,P03,Hafidz 1 Store,Viewing,405,train,train,train,train,test,train,train,train,train
+V0226,P03,Hafidz 1 Store,Viewing,456,train,val,train,train,test,train,train,train,train
+V0227,P03,Hafidz 1 Store,Viewing,453,train,train,train,train,test,train,train,train,train
+V0228,P01,Hafidz 2 Store,No Interest,387,train,train,val,val,train,train,train,test,train
+V0229,P01,Hafidz 2 Store,No Interest,431,train,train,train,train,train,train,train,test,val
+V0230,P01,Hafidz 2 Store,No Interest,336,train,train,train,train,val,train,train,test,val
+V0231,P01,Hafidz 2 Store,No Interest,307,train,train,train,train,train,train,train,test,train
+V0232,P01,Hafidz 2 Store,No Interest,340,train,train,train,train,train,train,train,test,train
+V0233,P01,Hafidz 2 Store,No Interest,339,train,train,train,train,train,train,train,test,train
+V0234,P01,Hafidz 2 Store,Picking and Putting,320,train,train,train,train,train,train,train,test,val
+V0235,P01,Hafidz 2 Store,Picking and Putting,315,train,train,train,train,train,train,train,test,train
+V0236,P01,Hafidz 2 Store,Picking and Putting,491,train,train,train,train,train,train,val,test,train
+V0237,P01,Hafidz 2 Store,Picking and Returning,475,train,train,train,train,train,train,train,test,train
+V0238,P01,Hafidz 2 Store,Picking and Returning,404,train,train,train,train,train,train,train,test,val
+V0239,P01,Hafidz 2 Store,Picking and Returning,406,train,train,val,train,train,train,train,test,train
+V0240,P01,Hafidz 2 Store,Picking and Returning,474,train,train,train,train,val,train,val,test,train
+V0241,P01,Hafidz 2 Store,Picking and Returning,480,train,train,train,train,train,train,train,test,val
+V0242,P01,Hafidz 2 Store,Picking and Returning,404,train,val,train,train,val,train,train,test,train
+V0243,P01,Hafidz 2 Store,Touching,460,train,train,train,val,train,train,train,test,train
+V0244,P01,Hafidz 2 Store,Touching,527,train,train,train,train,train,train,train,test,train
+V0245,P01,Hafidz 2 Store,Touching,422,train,train,train,train,train,train,train,test,train
+V0246,P01,Hafidz 2 Store,Touching,504,train,train,train,train,train,train,train,test,train
+V0247,P01,Hafidz 2 Store,Touching,424,train,train,train,train,train,train,train,test,train
+V0248,P01,Hafidz 2 Store,Touching,433,train,train,train,train,train,train,train,test,train
+V0249,P01,Hafidz 2 Store,Turning To Shelf,1003,train,train,train,train,train,train,val,test,train
+V0250,P01,Hafidz 2 Store,Turning To Shelf,406,train,train,val,val,train,train,train,test,train
+V0251,P01,Hafidz 2 Store,Turning To Shelf,1369,train,train,train,train,val,train,train,test,train
+V0252,P01,Hafidz 2 Store,Turning To Shelf,455,train,train,train,train,train,train,train,test,train
+V0253,P01,Hafidz 2 Store,Turning To Shelf,416,train,train,train,train,train,train,train,test,train
+V0254,P01,Hafidz 2 Store,Turning To Shelf,495,train,train,train,val,train,train,train,test,val
+V0255,P01,Hafidz 2 Store,Turning To Shelf,494,train,train,train,train,train,train,train,test,train
+V0256,P01,Hafidz 2 Store,Turning To Shelf,428,train,train,train,train,train,train,train,test,train
+V0257,P01,Hafidz 2 Store,Viewing,336,train,train,train,train,train,train,train,test,val
+V0258,P01,Hafidz 2 Store,Viewing,374,train,val,train,train,val,train,val,test,train
+V0259,P01,Hafidz 2 Store,Viewing,310,train,train,val,train,train,train,train,test,train
+V0260,P01,Hafidz 2 Store,Viewing,369,train,train,train,train,train,train,val,test,train
+V0261,P01,Hafidz 2 Store,Viewing,337,train,train,train,train,train,val,train,test,train
+V0262,P01,Hafidz 2 Store,Viewing,443,train,train,train,train,train,train,train,test,train
+V0263,P05,Hafidz 2 Store,No Interest,449,train,test,train,train,train,train,train,test,train
+V0264,P05,Hafidz 2 Store,No Interest,223,train,test,train,train,val,train,train,test,train
+V0265,P05,Hafidz 2 Store,No Interest,309,train,test,train,train,train,train,train,test,train
+V0266,P05,Hafidz 2 Store,No Interest,285,train,test,train,train,train,train,train,test,train
+V0267,P05,Hafidz 2 Store,No Interest,389,train,test,train,train,train,train,train,test,train
+V0268,P05,Hafidz 2 Store,No Interest,281,train,test,train,train,train,train,val,test,train
+V0269,P05,Hafidz 2 Store,Picking and Putting,288,train,test,train,train,train,train,train,test,train
+V0270,P05,Hafidz 2 Store,Picking and Putting,111,train,test,train,train,train,train,train,test,train
+V0271,P05,Hafidz 2 Store,Picking and Putting,232,train,test,train,train,train,train,train,test,train
+V0272,P05,Hafidz 2 Store,Picking and Putting,333,train,test,train,train,train,train,train,test,train
+V0273,P05,Hafidz 2 Store,Picking and Putting,263,train,test,train,train,train,train,val,test,train
+V0274,P05,Hafidz 2 Store,Picking and Putting,312,train,test,train,train,train,train,train,test,train
+V0275,P05,Hafidz 2 Store,Picking and Putting,247,train,test,train,train,train,val,train,test,train
+V0276,P05,Hafidz 2 Store,Picking and Returning,235,train,test,train,train,train,val,train,test,train
+V0277,P05,Hafidz 2 Store,Picking and Returning,299,train,test,train,train,train,train,train,test,train
+V0278,P05,Hafidz 2 Store,Picking and Returning,244,train,test,val,train,train,train,train,test,train
+V0279,P05,Hafidz 2 Store,Picking and Returning,460,train,test,train,train,train,train,train,test,train
+V0280,P05,Hafidz 2 Store,Picking and Returning,395,val,test,train,val,train,val,train,test,train
+V0281,P05,Hafidz 2 Store,Picking and Returning,388,train,test,train,train,train,train,train,test,train
+V0282,P05,Hafidz 2 Store,Picking and Returning,403,train,test,train,train,train,train,val,test,train
+V0283,P05,Hafidz 2 Store,Touching,293,val,test,train,train,train,train,train,test,train
+V0284,P05,Hafidz 2 Store,Touching,345,train,test,train,train,train,train,val,test,train
+V0285,P05,Hafidz 2 Store,Touching,418,train,test,train,train,train,train,train,test,train
+V0286,P05,Hafidz 2 Store,Touching,410,train,test,train,train,train,train,train,test,train
+V0287,P05,Hafidz 2 Store,Touching,389,train,test,train,val,val,train,train,test,train
+V0288,P05,Hafidz 2 Store,Touching,443,train,test,train,train,train,train,train,test,train
+V0289,P05,Hafidz 2 Store,Touching,510,train,test,val,val,train,train,train,test,train
+V0290,P05,Hafidz 2 Store,Viewing,219,train,test,train,train,train,train,train,test,train
+V0291,P05,Hafidz 2 Store,Viewing,361,train,test,train,train,train,train,train,test,train
+V0292,P05,Hafidz 2 Store,Viewing,525,train,test,train,val,train,train,train,test,train
+V0293,P05,Hafidz 2 Store,Viewing,406,train,test,train,train,train,val,train,test,train
+V0294,P05,Hafidz 2 Store,Viewing,304,train,test,train,train,train,train,train,test,train
+V0295,P05,Hafidz 2 Store,Viewing,408,train,test,train,train,train,train,train,test,train
+V0296,P05,Hafidz 2 Store,Viewing,416,train,test,train,train,train,val,train,test,train
+V0297,P05,Hafidz 2 Store,Viewing,253,val,test,train,val,train,train,train,test,train
+V0298,P05,Hafidz 2 Store,Viewing,404,train,test,train,val,train,train,train,test,train
+V0299,P03,Hafidz 2 Store,Picking and Putting,381,val,train,train,val,train,train,train,test,train
+V0300,P03,Hafidz 2 Store,Picking and Putting,297,train,train,train,train,train,train,train,test,train
+V0301,P03,Hafidz 2 Store,Picking and Putting,313,train,train,train,train,train,train,train,test,val
+V0302,P03,Hafidz 2 Store,Turning To Shelf,436,val,train,train,train,train,train,val,test,train
+V0303,P03,Hafidz 2 Store,Turning To Shelf,425,train,train,train,train,train,val,train,test,train
+V0304,P03,Hafidz 2 Store,Turning To Shelf,307,train,train,train,train,train,train,train,test,train
+V0305,P03,Hafidz 2 Store,Turning To Shelf,368,train,val,train,val,train,train,val,test,train
+V0306,P03,Hafidz 2 Store,Turning To Shelf,359,train,train,train,train,val,train,val,test,train
+V0307,P04,Hari Store,No Interest,213,test,train,train,val,train,train,test,train,train
+V0308,P04,Hari Store,No Interest,184,test,train,train,train,train,train,test,train,train
+V0309,P04,Hari Store,No Interest,160,test,train,val,val,train,train,test,train,train
+V0310,P04,Hari Store,No Interest,176,test,train,train,train,train,train,test,train,train
+V0311,P04,Hari Store,No Interest,316,test,val,train,train,train,val,test,train,train
+V0312,P04,Hari Store,No Interest,163,test,train,train,train,train,train,test,train,train
+V0313,P04,Hari Store,Picking and Returning,438,test,train,train,train,train,val,test,train,train
+V0314,P04,Hari Store,Picking and Returning,329,test,val,train,train,train,train,test,train,train
+V0315,P04,Hari Store,Picking and Returning,184,test,val,train,train,train,train,test,train,train
+V0316,P04,Hari Store,Picking and Returning,330,test,train,train,train,val,train,test,train,train
+V0317,P04,Hari Store,Picking and Returning,306,test,train,train,train,train,train,test,train,train
+V0318,P04,Hari Store,Picking and Returning,305,test,val,val,train,train,train,test,train,train
+V0319,P04,Hari Store,Touching,289,test,train,train,train,train,train,test,val,train
+V0320,P04,Hari Store,Touching,175,test,train,train,train,train,train,test,train,train
+V0321,P04,Hari Store,Touching,387,test,train,train,train,train,train,test,train,train
+V0322,P04,Hari Store,Touching,404,test,train,train,train,train,train,test,train,val
+V0323,P04,Hari Store,Touching,199,test,train,val,train,val,val,test,train,train
+V0324,P04,Hari Store,Touching,229,test,train,train,train,train,train,test,train,train
+V0325,P04,Hari Store,Touching,437,test,train,train,train,train,train,test,train,train
+V0326,P04,Hari Store,Turning To Shelf,248,test,train,train,train,train,train,test,train,train
+V0327,P04,Hari Store,Turning To Shelf,353,test,train,val,train,train,train,test,train,train
+V0328,P04,Hari Store,Turning To Shelf,264,test,train,train,train,train,train,test,train,val
+V0329,P04,Hari Store,Turning To Shelf,309,test,train,train,train,train,val,test,train,train
+V0330,P04,Hari Store,Turning To Shelf,313,test,train,train,val,train,train,test,train,train
+V0331,P04,Hari Store,Turning To Shelf,271,test,train,train,train,train,train,test,train,train
+V0332,P04,Hari Store,Turning To Shelf,371,test,train,train,train,train,train,test,train,train
+V0333,P04,Hari Store,Turning To Shelf,180,test,train,train,val,train,train,test,train,train
+V0334,P04,Hari Store,Viewing,248,test,train,train,train,val,train,test,train,train
+V0335,P04,Hari Store,Viewing,164,test,train,train,train,train,train,test,train,train
+V0336,P04,Hari Store,Viewing,165,test,train,train,train,train,val,test,train,val
+V0337,P04,Hari Store,Viewing,268,test,train,train,train,train,train,test,train,train
+V0338,P04,Hari Store,Viewing,199,test,train,val,train,train,train,test,train,train
+V0339,P01,Hari Store,No Interest,412,train,train,train,train,train,train,test,train,train
+V0340,P01,Hari Store,No Interest,390,train,train,train,val,train,train,test,train,train
+V0341,P01,Hari Store,No Interest,267,train,train,train,train,train,val,test,train,val
+V0342,P01,Hari Store,No Interest,200,train,train,train,train,val,train,test,train,train
+V0343,P01,Hari Store,No Interest,238,train,train,train,train,train,train,test,val,train
+V0344,P01,Hari Store,No Interest,197,train,train,train,train,train,train,test,train,train
+V0345,P01,Hari Store,Picking and Putting,428,train,train,train,train,train,train,test,train,val
+V0346,P01,Hari Store,Picking and Putting,283,train,train,train,train,train,train,test,train,train
+V0347,P01,Hari Store,Picking and Putting,198,train,train,train,train,train,val,test,train,train
+V0348,P01,Hari Store,Picking and Putting,170,train,train,train,train,train,train,test,train,train
+V0349,P01,Hari Store,Picking and Putting,230,train,train,train,train,train,train,test,train,train
+V0350,P01,Hari Store,Picking and Putting,331,train,train,train,train,val,train,test,train,train
+V0351,P01,Hari Store,Picking and Putting,384,train,train,train,train,train,train,test,train,train
+V0352,P01,Hari Store,Picking and Returning,753,train,val,train,train,train,train,test,train,train
+V0353,P01,Hari Store,Picking and Returning,448,val,train,train,train,train,train,test,train,train
+V0354,P01,Hari Store,Picking and Returning,519,train,train,val,val,train,train,test,train,train
+V0355,P01,Hari Store,Picking and Returning,261,train,val,val,train,train,train,test,train,train
+V0356,P01,Hari Store,Picking and Returning,256,train,train,train,train,train,val,test,train,train
+V0357,P01,Hari Store,Picking and Returning,388,train,train,train,val,train,train,test,val,train
+V0358,P01,Hari Store,Viewing,454,train,train,train,train,train,train,test,train,train
+V0359,P01,Hari Store,Viewing,332,train,train,train,val,train,train,test,train,train
+V0360,P01,Hari Store,Viewing,278,train,train,train,train,train,train,test,train,train
+V0361,P01,Hari Store,Viewing,371,train,train,train,train,train,train,test,train,train
+V0362,P01,Hari Store,Viewing,248,train,train,train,train,train,train,test,train,train
+V0363,P01,Hari Store,Viewing,263,train,train,train,train,train,train,test,train,train
+V0364,P03,Hari Store,Picking and Putting,86,train,train,train,train,train,train,test,train,train
+V0365,P03,Hari Store,Picking and Putting,215,train,train,train,train,train,train,test,val,train
+V0366,P03,Hari Store,Picking and Putting,226,train,train,train,val,train,val,test,train,train
+V0367,P03,Hari Store,Picking and Putting,164,val,train,train,train,train,train,test,train,train
+V0368,P03,Hari Store,Picking and Putting,81,train,val,train,train,train,train,test,train,train
+V0369,P03,Hari Store,Touching,156,train,train,val,train,train,train,test,train,train
+V0370,P03,Hari Store,Touching,375,train,val,train,train,train,train,test,val,train
+V0371,P03,Hari Store,Touching,271,train,train,train,train,train,train,test,val,train
+V0372,P03,Hari Store,Touching,360,train,train,train,train,train,train,test,train,val
+V0373,P03,Hari Store,Touching,138,train,train,train,train,val,train,test,train,val
+V0374,P03,Hari Store,Viewing,21,train,train,train,train,train,train,test,train,train
+V0375,P03,Hari Store,Viewing,127,val,train,train,train,train,val,test,train,train
+V0376,P03,Hari Store,Viewing,257,train,train,train,train,train,train,test,train,val
+V0377,P01,Haza Mart,No Interest,417,train,train,train,train,train,test,train,train,train
+V0378,P01,Haza Mart,No Interest,345,train,train,train,train,train,test,train,train,train
+V0379,P01,Haza Mart,No Interest,369,train,train,train,train,train,test,train,train,val
+V0380,P01,Haza Mart,No Interest,356,train,train,train,train,val,test,train,val,train
+V0381,P01,Haza Mart,No Interest,629,train,val,val,val,train,test,train,train,train
+V0382,P01,Haza Mart,Picking and Putting,343,train,train,train,train,train,test,train,val,train
+V0383,P01,Haza Mart,Picking and Putting,322,train,train,train,train,train,test,train,train,train
+V0384,P01,Haza Mart,Picking and Putting,281,train,train,train,train,train,test,train,train,train
+V0385,P01,Haza Mart,Picking and Putting,354,train,train,train,val,train,test,train,train,train
+V0386,P01,Haza Mart,Picking and Putting,271,train,train,train,val,train,test,train,train,train
+V0387,P01,Haza Mart,Picking and Putting,324,train,val,train,train,train,test,train,train,train
+V0388,P01,Haza Mart,Picking and Putting,341,train,train,train,train,train,test,train,train,train
+V0389,P01,Haza Mart,Picking and Returning,466,train,train,train,train,train,test,train,train,train
+V0390,P01,Haza Mart,Picking and Returning,499,train,train,train,train,train,test,train,train,train
+V0391,P01,Haza Mart,Picking and Returning,370,train,train,train,val,train,test,train,train,train
+V0392,P01,Haza Mart,Picking and Returning,251,train,train,train,train,train,test,train,train,train
+V0393,P01,Haza Mart,Picking and Returning,405,train,train,train,train,train,test,train,train,train
+V0394,P01,Haza Mart,Picking and Returning,204,train,val,train,train,train,test,train,train,train
+V0395,P01,Haza Mart,Touching,698,train,train,train,val,val,test,train,train,train
+V0396,P01,Haza Mart,Touching,463,train,train,train,train,train,test,train,train,train
+V0397,P01,Haza Mart,Touching,267,train,train,train,train,train,test,train,train,train
+V0398,P01,Haza Mart,Touching,480,train,train,val,train,train,test,train,val,train
+V0399,P01,Haza Mart,Touching,497,train,train,train,train,val,test,train,train,train
+V0400,P01,Haza Mart,Touching,426,train,train,train,train,train,test,val,train,val
+V0401,P01,Haza Mart,Turning To Shelf,888,train,train,val,train,train,test,train,train,train
+V0402,P01,Haza Mart,Turning To Shelf,452,train,train,train,train,val,test,train,train,train
+V0403,P01,Haza Mart,Turning To Shelf,494,train,train,train,train,train,test,train,train,train
+V0404,P01,Haza Mart,Turning To Shelf,464,train,train,train,train,train,test,train,train,train
+V0405,P01,Haza Mart,Turning To Shelf,380,train,train,train,train,train,test,train,train,train
+V0406,P01,Haza Mart,Turning To Shelf,453,train,train,train,train,train,test,train,train,train
+V0407,P01,Haza Mart,Turning To Shelf,602,train,train,train,train,train,test,train,train,train
+V0408,P01,Haza Mart,Viewing,540,train,train,train,train,train,test,train,train,val
+V0409,P01,Haza Mart,Viewing,471,train,train,train,train,train,test,train,train,train
+V0410,P01,Haza Mart,Viewing,376,train,train,train,train,train,test,train,train,train
+V0411,P01,Haza Mart,Viewing,368,train,train,train,train,train,test,train,val,train
+V0412,P01,Haza Mart,Viewing,425,train,train,train,train,train,test,train,train,train
+V0413,P01,Haza Mart,Viewing,380,train,train,train,train,val,test,train,val,train
+V0414,P01,Haza Mart,Viewing,387,train,val,train,train,train,test,train,train,train
+V0415,P03,Haza Mart,No Interest,617,train,train,train,train,train,test,train,train,train
+V0416,P03,Haza Mart,No Interest,446,train,train,train,train,train,test,train,train,train
+V0417,P03,Haza Mart,No Interest,206,train,train,train,train,train,test,train,train,train
+V0418,P03,Haza Mart,No Interest,315,train,val,val,train,train,test,val,train,train
+V0419,P03,Haza Mart,No Interest,293,train,train,train,train,val,test,train,train,train
+V0420,P03,Haza Mart,No Interest,263,train,train,train,val,train,test,train,train,val
+V0421,P03,Haza Mart,No Interest,307,train,train,train,train,train,test,train,train,train
+V0422,P03,Haza Mart,Picking and Putting,329,train,val,train,train,val,test,val,train,train
+V0423,P03,Haza Mart,Picking and Putting,212,train,train,train,train,val,test,train,train,train
+V0424,P03,Haza Mart,Picking and Putting,226,train,train,train,train,train,test,val,train,train
+V0425,P03,Haza Mart,Picking and Putting,249,train,train,val,train,train,test,train,train,train
+V0426,P03,Haza Mart,Picking and Putting,247,val,train,train,train,train,test,train,val,train
+V0427,P03,Haza Mart,Picking and Putting,324,train,val,train,train,train,test,train,train,train
+V0428,P03,Haza Mart,Picking and Putting,342,train,train,train,train,val,test,val,val,train
+V0429,P03,Haza Mart,Picking and Returning,749,train,train,train,train,train,test,train,train,train
+V0430,P03,Haza Mart,Picking and Returning,314,train,train,train,train,val,test,train,train,train
+V0431,P03,Haza Mart,Picking and Returning,415,train,train,train,train,train,test,val,train,val
+V0432,P03,Haza Mart,Picking and Returning,386,train,train,train,train,train,test,train,train,train
+V0433,P03,Haza Mart,Picking and Returning,487,train,train,train,train,train,test,val,train,train
+V0434,P03,Haza Mart,Picking and Returning,404,train,train,val,val,train,test,train,train,train
+V0435,P03,Haza Mart,Touching,303,train,train,train,train,train,test,train,train,val
+V0436,P03,Haza Mart,Touching,425,val,train,train,train,train,test,train,train,train
+V0437,P03,Haza Mart,Touching,433,train,train,train,train,train,test,train,train,train
+V0438,P03,Haza Mart,Touching,372,train,train,train,train,train,test,train,train,train
+V0439,P03,Haza Mart,Touching,412,train,train,val,train,train,test,train,train,train
+V0440,P03,Haza Mart,Touching,263,val,train,train,val,train,test,train,train,train
+V0441,P03,Haza Mart,Turning To Shelf,547,train,train,train,train,train,test,train,train,train
+V0442,P03,Haza Mart,Turning To Shelf,597,train,train,train,train,train,test,train,train,train
+V0443,P03,Haza Mart,Turning To Shelf,494,train,train,val,train,train,test,train,train,train
+V0444,P03,Haza Mart,Turning To Shelf,377,train,train,train,train,train,test,train,train,train
+V0445,P03,Haza Mart,Turning To Shelf,267,train,train,train,val,train,test,train,train,train
+V0446,P03,Haza Mart,Turning To Shelf,358,train,train,train,val,train,test,train,train,train
+V0447,P03,Haza Mart,Viewing,408,train,train,train,train,train,test,train,train,val
+V0448,P03,Haza Mart,Viewing,404,train,train,train,train,train,test,train,train,train
+V0449,P03,Haza Mart,Viewing,399,train,train,train,train,train,test,train,train,train
+V0450,P03,Haza Mart,Viewing,460,train,train,train,train,val,test,train,train,train
+V0451,P03,Haza Mart,Viewing,431,train,train,train,train,train,test,train,train,train
+V0452,P03,Haza Mart,Viewing,283,train,train,train,val,train,test,train,train,train
+V0453,P03,Haza Mart,Viewing,318,train,train,train,train,train,test,train,train,val
+V0454,P01,Rehana Store,No Interest,376,train,train,train,train,train,test,train,train,train
+V0455,P01,Rehana Store,No Interest,402,train,train,val,train,train,test,train,train,train
+V0456,P01,Rehana Store,No Interest,324,train,train,train,train,train,test,train,train,train
+V0457,P01,Rehana Store,No Interest,301,val,train,train,train,train,test,train,val,train
+V0458,P01,Rehana Store,No Interest,418,train,train,train,train,train,test,train,train,train
+V0459,P01,Rehana Store,No Interest,71,train,train,train,train,train,test,train,train,train
+V0460,P01,Rehana Store,Picking and Putting,410,train,train,train,train,train,test,val,train,train
+V0461,P01,Rehana Store,Picking and Putting,366,train,train,train,train,train,test,train,train,val
+V0462,P01,Rehana Store,Picking and Putting,312,train,train,train,val,train,test,train,train,train
+V0463,P01,Rehana Store,Picking and Putting,368,train,train,train,train,train,test,train,train,train
+V0464,P01,Rehana Store,Picking and Putting,275,val,train,train,train,val,test,train,train,train
+V0465,P01,Rehana Store,Picking and Returning,608,train,train,train,train,train,test,val,train,train
+V0466,P01,Rehana Store,Picking and Returning,617,val,train,train,train,train,test,train,train,train
+V0467,P01,Rehana Store,Picking and Returning,606,train,train,train,train,train,test,train,train,train
+V0468,P01,Rehana Store,Picking and Returning,591,train,train,train,train,train,test,train,train,train
+V0469,P01,Rehana Store,Picking and Returning,616,train,train,train,train,train,test,val,train,train
+V0470,P01,Rehana Store,Picking and Returning,239,train,train,train,train,train,test,train,train,train
+V0471,P01,Rehana Store,Touching,529,train,train,train,train,train,test,train,train,train
+V0472,P01,Rehana Store,Touching,15,train,train,train,train,train,test,train,train,val
+V0473,P01,Rehana Store,Touching,628,train,train,train,train,train,test,train,train,train
+V0474,P01,Rehana Store,Touching,629,train,train,train,train,train,test,train,train,train
+V0475,P01,Rehana Store,Touching,626,train,train,train,val,train,test,train,train,train
+V0476,P01,Rehana Store,Touching,288,train,val,train,train,train,test,train,train,train
+V0477,P01,Rehana Store,Touching,622,train,val,train,train,train,test,train,val,train
+V0478,P01,Rehana Store,Touching,90,val,train,train,train,train,test,train,train,train
+V0479,P01,Rehana Store,Touching,588,train,train,train,train,train,test,train,train,train
+V0480,P01,Rehana Store,Turning To Shelf,531,train,train,train,train,train,test,train,train,train
+V0481,P01,Rehana Store,Turning To Shelf,598,train,train,train,train,train,test,train,train,train
+V0482,P01,Rehana Store,Turning To Shelf,565,train,train,train,train,train,test,train,train,val
+V0483,P01,Rehana Store,Turning To Shelf,277,train,train,val,train,train,test,val,train,train
+V0484,P01,Rehana Store,Turning To Shelf,585,val,train,train,train,val,test,train,train,train
+V0485,P01,Rehana Store,Turning To Shelf,511,train,val,train,train,train,test,val,train,train
+V0486,P01,Rehana Store,Viewing,317,train,train,val,train,train,test,train,train,train
+V0487,P01,Rehana Store,Viewing,420,train,train,train,train,val,test,train,train,train
+V0488,P01,Rehana Store,Viewing,468,train,val,train,val,train,test,train,train,train
+V0489,P01,Rehana Store,Viewing,522,train,train,train,train,train,test,train,val,train
+V0490,P01,Rehana Store,Viewing,482,train,train,train,train,val,test,train,train,train
+V0491,P01,Rehana Store,Viewing,516,train,train,train,train,train,test,val,val,train
+V0492,P01,Rehana Store,Viewing,84,train,train,train,val,val,test,train,val,train
+V0493,P03,Rehana Store,No Interest,439,train,train,train,train,train,test,train,train,train
+V0494,P03,Rehana Store,No Interest,431,train,train,train,train,train,test,train,train,train
+V0495,P03,Rehana Store,No Interest,309,train,train,train,train,val,test,train,train,val
+V0496,P03,Rehana Store,No Interest,401,val,train,train,train,train,test,train,train,train
+V0497,P03,Rehana Store,No Interest,403,train,train,train,train,train,test,train,train,train
+V0498,P03,Rehana Store,No Interest,14,val,train,train,train,train,test,train,train,train
+V0499,P03,Rehana Store,Picking and Putting,321,train,val,train,train,val,test,train,train,train
+V0500,P03,Rehana Store,Picking and Putting,255,train,train,train,train,train,test,train,train,train
+V0501,P03,Rehana Store,Picking and Putting,342,train,train,train,train,train,test,train,train,train
+V0502,P03,Rehana Store,Picking and Putting,169,train,train,train,train,train,test,train,train,train
+V0503,P03,Rehana Store,Picking and Putting,368,train,train,train,train,train,test,train,train,train
+V0504,P03,Rehana Store,Picking and Putting,298,train,train,train,train,train,test,train,train,train
+V0505,P03,Rehana Store,Picking and Returning,598,train,train,train,train,train,test,val,train,train
+V0506,P03,Rehana Store,Picking and Returning,604,val,train,train,train,train,test,train,train,train
+V0507,P03,Rehana Store,Picking and Returning,71,val,train,train,train,train,test,train,train,train
+V0508,P03,Rehana Store,Picking and Returning,610,train,train,train,train,train,test,train,train,train
+V0509,P03,Rehana Store,Picking and Returning,245,train,train,train,train,train,test,train,train,train
+V0510,P03,Rehana Store,Picking and Returning,504,train,train,val,train,train,test,train,train,train
+V0511,P03,Rehana Store,Picking and Returning,591,train,train,train,train,train,test,train,train,train
+V0512,P03,Rehana Store,Touching,499,train,train,train,train,train,test,val,train,train
+V0513,P03,Rehana Store,Touching,572,train,train,val,train,train,test,val,train,train
+V0514,P03,Rehana Store,Touching,634,train,train,train,val,train,test,train,train,val
+V0515,P03,Rehana Store,Touching,555,train,train,train,train,train,test,train,train,train
+V0516,P03,Rehana Store,Touching,88,train,train,train,train,train,test,val,train,train
+V0520,P03,Rehana Store,Turning To Shelf,544,val,train,train,train,train,test,train,train,train
+V0521,P03,Rehana Store,Turning To Shelf,612,train,train,train,train,train,test,train,train,train
+V0522,P03,Rehana Store,Turning To Shelf,467,val,train,train,val,val,test,train,train,train
+V0523,P03,Rehana Store,Turning To Shelf,617,train,train,train,train,train,test,train,val,train
+V0524,P03,Rehana Store,Turning To Shelf,417,val,train,train,val,train,test,train,train,train
+V0525,P03,Rehana Store,Turning To Shelf,370,train,train,train,train,train,test,train,train,train
+V0526,P03,Rehana Store,Turning To Shelf,38,train,train,train,train,train,test,train,train,val
+V0527,P03,Rehana Store,Turning To Shelf,248,train,train,train,train,train,test,val,val,train
+V0528,P03,Rehana Store,Turning To Shelf,43,train,train,train,train,train,test,train,train,val
+V0529,P03,Rehana Store,Viewing,314,train,train,train,val,train,test,train,train,train
+V0530,P03,Rehana Store,Viewing,265,train,train,train,train,train,test,train,train,train
+V0531,P03,Rehana Store,Viewing,348,train,train,train,train,train,test,train,train,train
+V0532,P03,Rehana Store,Viewing,350,train,train,train,train,train,test,train,train,train
+V0533,P03,Rehana Store,Viewing,601,train,train,train,train,train,test,train,train,train
+V0534,P03,Rehana Store,Viewing,623,train,val,train,train,train,test,train,train,train
+V0535,P01,Senyum 2 Store,Picking and Putting,308,train,val,train,train,train,train,train,test,train
+V0536,P01,Senyum 2 Store,Picking and Putting,272,train,train,val,train,train,train,train,test,val
+V0537,P01,Senyum 2 Store,Picking and Putting,316,train,train,train,train,train,val,train,test,train
+V0538,P01,Senyum 2 Store,Picking and Putting,309,train,val,train,train,train,train,train,test,train
+V0539,P01,Senyum 2 Store,Picking and Putting,520,train,train,train,train,train,train,train,test,train
+V0540,P01,Senyum 2 Store,Picking and Returning,1005,train,train,train,train,train,train,train,test,val
+V0541,P01,Senyum 2 Store,Picking and Returning,489,val,train,train,train,train,train,train,test,train
+V0542,P01,Senyum 2 Store,Picking and Returning,539,train,train,train,train,train,train,train,test,train
+V0543,P01,Senyum 2 Store,Picking and Returning,361,train,train,val,train,train,train,train,test,train
+V0544,P01,Senyum 2 Store,Picking and Returning,589,train,train,train,train,train,train,train,test,train
+V0545,P01,Senyum 2 Store,Picking and Returning,532,val,train,train,train,train,train,train,test,train
+V0546,P01,Senyum 2 Store,Turning To Shelf,921,train,val,val,train,train,train,train,test,train
+V0547,P01,Senyum 2 Store,Turning To Shelf,381,train,train,train,train,train,train,train,test,train
+V0548,P01,Senyum 2 Store,Turning To Shelf,272,train,train,train,train,train,train,train,test,train
+V0549,P01,Senyum 2 Store,Turning To Shelf,549,train,val,train,train,train,train,train,test,train
+V0550,P01,Senyum 2 Store,Viewing,445,train,train,train,train,train,train,train,test,train
+V0551,P01,Senyum 2 Store,Viewing,293,train,train,train,train,val,train,train,test,train
+V0552,P01,Senyum 2 Store,Viewing,502,train,val,train,train,train,train,train,test,train
+V0553,P01,Senyum 2 Store,Viewing,297,train,train,train,train,train,train,train,test,train
+V0554,P06,Senyum 2 Store,No Interest,360,train,train,train,test,train,train,train,test,train
+V0555,P06,Senyum 2 Store,No Interest,242,val,train,train,test,train,train,train,test,train
+V0556,P06,Senyum 2 Store,No Interest,372,train,train,train,test,train,train,train,test,train
+V0557,P06,Senyum 2 Store,No Interest,305,train,train,train,test,train,val,train,test,train
+V0558,P06,Senyum 2 Store,Picking and Putting,334,train,train,train,test,train,train,train,test,train
+V0559,P06,Senyum 2 Store,Picking and Putting,188,train,train,val,test,train,val,train,test,train
+V0560,P06,Senyum 2 Store,Picking and Putting,347,train,train,train,test,val,train,train,test,train
+V0561,P06,Senyum 2 Store,Picking and Putting,322,val,val,train,test,train,train,train,test,train
+V0562,P06,Senyum 2 Store,Picking and Putting,71,train,train,val,test,train,train,train,test,train
+V0563,P06,Senyum 2 Store,Picking and Putting,264,val,train,train,test,train,val,train,test,train
+V0564,P06,Senyum 2 Store,Picking and Returning,1072,train,train,train,test,train,val,train,test,val
+V0565,P06,Senyum 2 Store,Picking and Returning,485,train,train,train,test,train,train,train,test,train
+V0566,P06,Senyum 2 Store,Picking and Returning,656,val,train,train,test,val,train,train,test,train
+V0567,P06,Senyum 2 Store,Picking and Returning,707,train,val,train,test,train,val,train,test,train
+V0568,P06,Senyum 2 Store,Picking and Returning,440,train,val,train,test,train,train,train,test,train
+V0569,P06,Senyum 2 Store,Picking and Returning,491,train,train,train,test,val,train,train,test,train
+V0570,P06,Senyum 2 Store,Touching,69,train,train,train,test,train,train,train,test,train
+V0571,P06,Senyum 2 Store,Touching,273,train,val,train,test,train,train,train,test,train
+V0572,P06,Senyum 2 Store,Touching,457,train,val,train,test,val,train,train,test,train
+V0573,P06,Senyum 2 Store,Touching,611,train,train,train,test,train,val,train,test,train
+V0574,P06,Senyum 2 Store,Touching,851,train,train,train,test,train,train,train,test,train
+V0575,P06,Senyum 2 Store,Touching,369,val,train,train,test,train,train,train,test,train
+V0576,P06,Senyum 2 Store,Touching,383,train,train,val,test,train,train,train,test,val
+V0577,P06,Senyum 2 Store,Turning To Shelf,583,train,train,train,test,train,train,train,test,train
+V0578,P06,Senyum 2 Store,Turning To Shelf,259,train,train,train,test,train,train,val,test,train
+V0579,P06,Senyum 2 Store,Turning To Shelf,251,train,train,train,test,val,train,train,test,train
+V0580,P06,Senyum 2 Store,Turning To Shelf,363,train,train,train,test,train,train,val,test,train
+V0581,P06,Senyum 2 Store,Turning To Shelf,490,train,train,train,test,train,train,train,test,val
+V0582,P06,Senyum 2 Store,Viewing,660,train,val,val,test,train,train,val,test,train
+V0583,P06,Senyum 2 Store,Viewing,301,train,train,train,test,train,train,train,test,train
+V0584,P06,Senyum 2 Store,Viewing,407,train,train,train,test,train,train,train,test,train
+V0585,P06,Senyum 2 Store,Viewing,420,train,train,train,test,train,train,train,test,train
+V0586,P06,Senyum 2 Store,Viewing,148,train,train,train,test,train,train,train,test,train
+V0587,P06,Senyum 2 Store,Viewing,440,train,train,val,test,train,train,train,test,train
+V0588,P03,Senyum 2 Store,No Interest,255,val,train,train,train,val,train,val,test,train
+V0589,P03,Senyum 2 Store,No Interest,138,train,train,train,val,train,train,train,test,train
+V0590,P03,Senyum 2 Store,No Interest,180,train,train,train,train,train,train,train,test,train
+V0591,P03,Senyum 2 Store,No Interest,139,train,train,train,train,train,train,train,test,train
+V0592,P03,Senyum 2 Store,No Interest,263,train,train,train,train,train,train,train,test,train
+V0593,P03,Senyum 2 Store,No Interest,343,train,train,train,train,train,train,train,test,val
+V0594,P03,Senyum 2 Store,No Interest,254,train,val,train,train,train,train,train,test,train
+V0595,P03,Senyum 2 Store,No Interest,382,train,train,train,train,train,train,train,test,train
+V0596,P03,Senyum 2 Store,No Interest,208,train,train,train,train,train,train,train,test,train
+V0597,P03,Senyum 2 Store,Picking and Putting,434,train,train,train,train,train,train,train,test,train
+V0598,P03,Senyum 2 Store,Picking and Putting,290,train,train,train,train,train,train,train,test,train
+V0599,P03,Senyum 2 Store,Touching,1000,train,train,train,train,val,train,train,test,train
+V0600,P03,Senyum 2 Store,Touching,508,train,train,train,train,train,train,train,test,train
+V0601,P03,Senyum 2 Store,Touching,374,train,train,train,train,val,train,train,test,train
+V0602,P03,Senyum 2 Store,Touching,610,train,train,train,train,train,val,train,test,val
+V0603,P03,Senyum 2 Store,Turning To Shelf,538,train,train,train,train,train,train,train,test,train
+V0604,P03,Senyum 2 Store,Turning To Shelf,490,train,val,train,train,train,train,train,test,train
+V0605,P03,Senyum 2 Store,Turning To Shelf,578,train,train,train,train,train,train,train,test,train
+V0606,P03,Senyum 2 Store,Viewing,254,val,train,train,train,train,train,train,test,train
+V0607,P03,Senyum 2 Store,Viewing,269,train,train,train,train,train,train,train,test,train
+V0608,P01,Senyum 3 Store,No Interest,298,val,train,train,train,train,train,test,train,train
+V0609,P01,Senyum 3 Store,No Interest,236,train,train,val,val,train,train,test,train,train
+V0610,P01,Senyum 3 Store,No Interest,261,val,val,train,train,train,train,test,train,train
+V0611,P01,Senyum 3 Store,Picking and Putting,494,val,train,train,train,train,train,test,train,val
+V0612,P01,Senyum 3 Store,Picking and Putting,291,train,train,train,val,train,train,test,train,train
+V0613,P01,Senyum 3 Store,Picking and Returning,792,train,train,train,train,train,train,test,train,train
+V0614,P01,Senyum 3 Store,Picking and Returning,556,train,train,train,train,train,val,test,train,train
+V0615,P01,Senyum 3 Store,Picking and Returning,552,train,train,train,train,train,train,test,train,val
+V0616,P01,Senyum 3 Store,Picking and Returning,550,train,train,train,train,train,train,test,train,train
+V0617,P01,Senyum 3 Store,Picking and Returning,440,train,train,train,train,train,train,test,train,val
+V0618,P01,Senyum 3 Store,Picking and Returning,511,train,train,train,train,train,train,test,train,train
+V0619,P01,Senyum 3 Store,Picking and Returning,506,val,train,train,train,train,train,test,val,train
+V0620,P01,Senyum 3 Store,Touching,674,train,train,train,train,train,train,test,train,train
+V0621,P01,Senyum 3 Store,Touching,426,val,train,train,train,train,train,test,train,train
+V0622,P01,Senyum 3 Store,Touching,426,train,train,train,train,train,val,test,train,train
+V0623,P01,Senyum 3 Store,Touching,511,train,train,train,train,train,train,test,train,train
+V0624,P01,Senyum 3 Store,Touching,450,train,train,train,train,train,train,test,train,val
+V0625,P01,Senyum 3 Store,Touching,503,train,train,train,train,train,train,test,train,train
+V0626,P01,Senyum 3 Store,Turning To Shelf,168,train,train,train,train,train,train,test,train,train
+V0627,P01,Senyum 3 Store,Turning To Shelf,364,train,val,train,train,val,train,test,train,train
+V0628,P01,Senyum 3 Store,Turning To Shelf,334,train,train,train,train,train,train,test,train,train
+V0629,P01,Senyum 3 Store,Turning To Shelf,172,train,train,train,train,train,train,test,val,train
+V0630,P01,Senyum 3 Store,Turning To Shelf,283,train,train,train,train,train,train,test,train,train
+V0631,P01,Senyum 3 Store,Turning To Shelf,310,train,train,train,train,val,train,test,val,train
+V0632,P01,Senyum 3 Store,Viewing,373,val,train,train,train,train,train,test,train,train
+V0633,P01,Senyum 3 Store,Viewing,442,train,train,train,train,train,train,test,train,train
+V0634,P01,Senyum 3 Store,Viewing,453,train,train,train,train,val,train,test,val,train
+V0635,P06,Senyum 3 Store,No Interest,176,train,train,train,test,train,train,test,train,val
+V0636,P06,Senyum 3 Store,No Interest,211,train,train,train,test,train,train,test,train,train
+V0637,P06,Senyum 3 Store,No Interest,234,train,val,train,test,train,train,test,train,train
+V0638,P06,Senyum 3 Store,No Interest,239,train,train,train,test,train,val,test,train,train
+V0639,P06,Senyum 3 Store,Picking and Putting,191,train,train,train,test,train,train,test,train,train
+V0640,P06,Senyum 3 Store,Picking and Putting,436,train,train,train,test,train,train,test,train,val
+V0641,P06,Senyum 3 Store,Picking and Putting,181,train,train,train,test,train,train,test,val,train
+V0642,P06,Senyum 3 Store,Picking and Putting,264,train,train,train,test,val,train,test,train,train
+V0643,P06,Senyum 3 Store,Picking and Putting,217,train,train,train,test,train,train,test,val,train
+V0644,P06,Senyum 3 Store,Picking and Putting,374,train,train,val,test,train,train,test,train,train
+V0645,P06,Senyum 3 Store,Picking and Returning,535,train,train,train,test,train,train,test,train,train
+V0646,P06,Senyum 3 Store,Picking and Returning,593,train,train,train,test,train,train,test,train,train
+V0647,P06,Senyum 3 Store,Picking and Returning,362,train,train,train,test,train,train,test,train,train
+V0648,P06,Senyum 3 Store,Picking and Returning,317,train,train,train,test,train,train,test,train,train
+V0649,P06,Senyum 3 Store,Picking and Returning,414,train,val,train,test,train,train,test,train,train
+V0650,P06,Senyum 3 Store,Touching,37,train,train,train,test,train,train,test,train,train
+V0651,P06,Senyum 3 Store,Touching,411,train,train,train,test,train,train,test,train,val
+V0652,P06,Senyum 3 Store,Touching,669,val,val,train,test,train,train,test,train,train
+V0653,P06,Senyum 3 Store,Touching,297,train,train,train,test,val,val,test,train,train
+V0654,P06,Senyum 3 Store,Touching,74,val,train,train,test,train,val,test,train,train
+V0655,P06,Senyum 3 Store,Turning To Shelf,531,train,val,train,test,train,train,test,train,train
+V0656,P06,Senyum 3 Store,Turning To Shelf,422,train,val,train,test,train,train,test,val,train
+V0657,P06,Senyum 3 Store,Turning To Shelf,257,train,train,train,test,train,train,test,train,val
+V0658,P06,Senyum 3 Store,Turning To Shelf,119,train,train,train,test,train,val,test,train,train
+V0659,P06,Senyum 3 Store,Turning To Shelf,200,train,train,train,test,train,train,test,train,train
+V0660,P06,Senyum 3 Store,Turning To Shelf,78,train,train,train,test,train,train,test,train,val
+V0661,P06,Senyum 3 Store,Viewing,500,train,train,train,test,train,train,test,train,train
+V0662,P06,Senyum 3 Store,Viewing,344,train,train,train,test,train,val,test,train,train
+V0663,P06,Senyum 3 Store,Viewing,429,train,val,train,test,train,val,test,train,train
+V0664,P06,Senyum 3 Store,Viewing,343,val,train,train,test,train,train,test,train,val
+V0665,P06,Senyum 3 Store,Viewing,476,train,train,val,test,train,train,test,train,train
+V0666,P03,Senyum 3 Store,No Interest,387,train,train,train,train,train,train,test,train,train
+V0667,P03,Senyum 3 Store,No Interest,594,train,train,val,train,train,val,test,train,train
+V0668,P03,Senyum 3 Store,No Interest,177,train,train,train,train,train,train,test,val,train
+V0669,P03,Senyum 3 Store,No Interest,133,val,train,train,train,train,train,test,train,train
+V0670,P03,Senyum 3 Store,No Interest,205,train,train,val,train,train,train,test,train,train
+V0671,P03,Senyum 3 Store,Viewing,429,train,train,train,train,train,train,test,train,train
+V0672,P03,Senyum 3 Store,Viewing,336,train,train,train,train,train,train,test,train,train
+V0673,P03,Senyum 3 Store,Viewing,467,train,train,train,train,train,val,test,train,train
+V0674,P03,Senyum 3 Store,Viewing,310,train,train,train,train,train,train,test,train,train
+V0675,P03,Senyum 3 Store,Viewing,374,train,train,train,train,train,train,test,train,val
+V0676,P01,Senyum Store,Picking and Returning,689,train,train,train,val,train,train,test,train,train
+V0677,P01,Senyum Store,Picking and Returning,445,train,train,train,val,train,train,test,train,train
+V0678,P01,Senyum Store,Picking and Returning,428,train,train,train,train,train,train,test,train,train
+V0679,P01,Senyum Store,Picking and Returning,424,train,train,train,train,train,train,test,train,train
+V0680,P01,Senyum Store,Picking and Returning,424,train,train,train,train,val,val,test,train,train
+V0682,P01,Senyum Store,Picking and Returning,490,train,train,train,train,train,val,test,train,train
+V0683,P01,Senyum Store,Picking and Returning,470,train,train,train,train,train,train,test,train,train
+V0684,P01,Senyum Store,Picking and Returning,403,val,train,train,train,train,train,test,train,train
+V0685,P01,Senyum Store,Picking and Returning,420,train,val,train,val,train,train,test,train,train
+V0686,P01,Senyum Store,Picking and Returning,457,train,train,train,train,train,train,test,train,train
+V0687,P01,Senyum Store,Picking and Returning,400,train,train,train,train,train,val,test,val,train
+V0688,P01,Senyum Store,Touching,315,train,val,train,train,train,train,test,train,train
+V0689,P01,Senyum Store,Touching,481,train,train,train,train,train,train,test,train,train
+V0690,P01,Senyum Store,Touching,479,val,train,train,train,train,train,test,train,train
+V0691,P01,Senyum Store,Touching,685,train,train,train,train,train,train,test,val,train
+V0692,P01,Senyum Store,Touching,358,train,train,train,train,train,train,test,train,train
+V0693,P01,Senyum Store,Touching,396,train,val,train,train,train,train,test,train,val
+V0694,P01,Senyum Store,Viewing,186,train,train,train,train,train,train,test,train,train
+V0695,P01,Senyum Store,Viewing,262,train,val,train,train,train,train,test,train,train
+V0696,P03,Senyum Store,No Interest,679,val,train,train,val,train,train,test,val,train
+V0697,P03,Senyum Store,No Interest,172,train,train,train,val,train,train,test,train,train
+V0698,P03,Senyum Store,No Interest,285,train,val,train,train,train,train,test,train,train
+V0699,P03,Senyum Store,No Interest,342,train,val,train,val,train,train,test,train,train
+V0700,P03,Senyum Store,No Interest,287,train,train,train,train,train,train,test,train,train
+V0701,P03,Senyum Store,No Interest,226,train,val,train,train,train,train,test,train,train
+V0702,P03,Senyum Store,No Interest,454,train,train,train,train,train,val,test,train,train
+V0703,P03,Senyum Store,No Interest,289,train,train,val,train,train,train,test,train,train
+V0704,P03,Senyum Store,No Interest,400,train,train,train,train,train,train,test,train,train
+V0705,P03,Senyum Store,No Interest,256,train,train,train,train,train,train,test,train,train
+V0706,P03,Senyum Store,No Interest,435,train,train,train,train,train,train,test,train,train
+V0707,P03,Senyum Store,Picking and Putting,328,train,train,train,train,train,train,test,train,val
+V0708,P03,Senyum Store,Picking and Putting,389,train,train,train,train,train,val,test,train,train
+V0709,P03,Senyum Store,Picking and Putting,214,train,train,train,train,train,train,test,train,train
+V0710,P03,Senyum Store,Picking and Putting,85,train,train,train,train,train,train,test,train,train
+V0711,P03,Senyum Store,Picking and Putting,213,train,train,train,train,val,train,test,val,train
+V0712,P03,Senyum Store,Picking and Putting,186,train,train,train,train,val,train,test,train,train
+V0713,P03,Senyum Store,Picking and Putting,247,train,train,train,train,train,train,test,train,train
+V0714,P03,Senyum Store,Picking and Putting,292,val,val,train,train,train,train,test,train,train
+V0715,P03,Senyum Store,Picking and Putting,110,train,train,train,train,train,train,test,train,train
+V0716,P03,Senyum Store,Picking and Putting,208,train,val,train,train,train,train,test,train,train
+V0717,P03,Senyum Store,Picking and Putting,377,train,train,val,train,train,train,test,val,train
+V0718,P03,Senyum Store,Picking and Putting,211,train,train,train,train,train,train,test,val,train
+V0719,P03,Senyum Store,Touching,292,train,train,train,train,train,train,test,val,train
+V0720,P03,Senyum Store,Touching,356,train,train,val,train,train,train,test,train,train
+V0721,P03,Senyum Store,Touching,354,train,train,train,train,train,train,test,train,train
+V0722,P03,Senyum Store,Touching,346,train,train,train,train,val,val,test,train,train
+V0723,P03,Senyum Store,Touching,498,train,train,train,train,train,train,test,train,train
+V0724,P03,Senyum Store,Touching,352,train,train,train,train,train,train,test,train,train
+V0725,P03,Senyum Store,Touching,76,train,train,train,train,train,train,test,train,train
+V0726,P03,Senyum Store,Turning To Shelf,471,train,train,train,train,train,train,test,train,train
+V0727,P03,Senyum Store,Turning To Shelf,359,train,train,train,train,train,train,test,val,train
+V0728,P03,Senyum Store,Turning To Shelf,311,train,train,train,train,train,train,test,train,train
+V0729,P03,Senyum Store,Turning To Shelf,199,train,val,train,train,train,train,test,train,train
+V0730,P03,Senyum Store,Turning To Shelf,562,train,train,train,train,train,train,test,train,train
+V0731,P03,Senyum Store,Turning To Shelf,210,train,train,train,train,train,train,test,train,train
+V0732,P03,Senyum Store,Turning To Shelf,325,val,train,train,train,train,train,test,train,train
+V0733,P03,Senyum Store,Turning To Shelf,435,train,train,train,train,train,train,test,train,train
+V0734,P03,Senyum Store,Turning To Shelf,536,val,train,train,train,train,train,test,train,train
+V0735,P03,Senyum Store,Turning To Shelf,553,train,train,train,train,train,train,test,train,val
+V0736,P03,Senyum Store,Turning To Shelf,301,train,train,train,train,val,train,test,train,train
+V0737,P03,Senyum Store,Viewing,457,train,train,train,train,train,train,test,train,train
+V0738,P03,Senyum Store,Viewing,467,train,train,train,train,train,train,test,val,train
+V0739,P03,Senyum Store,Viewing,293,train,train,train,train,train,train,test,train,val
+V0740,P03,Senyum Store,Viewing,323,val,train,train,train,train,train,test,val,train
+V0741,P03,Senyum Store,Viewing,288,train,train,train,train,train,train,test,train,train
+V0742,P03,Senyum Store,Viewing,441,train,train,val,train,train,train,test,train,train
+V0743,P03,Senyum Store,Viewing,284,val,train,train,train,train,train,test,train,train
+V0744,P03,Senyum Store,Viewing,257,train,train,train,train,train,train,test,train,train
+V0745,P03,Senyum Store,Viewing,456,train,val,val,train,train,train,test,train,train
+V0746,P10,KPRI Kalimantan,No Interest,464,train,val,test,train,train,train,test,train,test
+V0747,P10,KPRI Kalimantan,No Interest,686,train,train,test,train,train,train,test,train,test
+V0748,P10,KPRI Kalimantan,Picking and Putting,605,train,train,test,train,train,train,test,train,test
+V0749,P10,KPRI Kalimantan,Picking and Putting,9,train,train,test,train,train,train,test,train,test
+V0750,P10,KPRI Kalimantan,Picking and Putting,917,train,train,test,train,train,train,test,train,test
+V0751,P10,KPRI Kalimantan,Picking and Returning,692,train,train,test,train,train,train,test,train,test
+V0752,P10,KPRI Kalimantan,Picking and Returning,460,train,train,test,train,train,train,test,train,test
+V0753,P10,KPRI Kalimantan,Touching,1222,train,train,test,train,train,train,test,train,test
+V0754,P10,KPRI Kalimantan,Turning To Shelf,727,train,val,test,train,train,train,test,train,test
+V0755,P10,KPRI Kalimantan,Turning To Shelf,513,train,train,test,train,train,train,test,train,test
+V0756,P10,KPRI Kalimantan,Turning To Shelf,454,train,train,test,train,train,train,test,train,test
+V0757,P10,KPRI Kalimantan,Viewing,705,train,train,test,train,train,train,test,train,test
+V0758,P10,KPRI Kalimantan,Viewing,574,train,train,test,val,train,train,test,val,test
+V0759,P13,KPRI Kalimantan,No Interest,164,test,train,train,train,train,train,test,train,test
+V0760,P13,KPRI Kalimantan,No Interest,291,test,train,train,train,train,train,test,train,test
+V0761,P13,KPRI Kalimantan,No Interest,897,test,train,train,train,val,train,test,train,test
+V0762,P13,KPRI Kalimantan,Picking and Putting,1004,test,train,train,train,train,train,test,train,test
+V0763,P13,KPRI Kalimantan,Picking and Returning,410,test,val,train,train,train,train,test,train,test
+V0764,P13,KPRI Kalimantan,Picking and Returning,301,test,train,train,train,train,train,test,train,test
+V0765,P13,KPRI Kalimantan,Touching,479,test,train,train,val,train,train,test,train,test
+V0766,P13,KPRI Kalimantan,Touching,297,test,train,train,val,train,train,test,val,test
+V0767,P13,KPRI Kalimantan,Turning To Shelf,224,test,train,train,val,train,train,test,val,test
+V0768,P13,KPRI Kalimantan,Turning To Shelf,1059,test,train,train,train,train,train,test,val,test
+V0769,P13,KPRI Kalimantan,Viewing,238,test,train,train,train,train,train,test,train,test
+V0770,P13,KPRI Kalimantan,Viewing,694,test,train,train,train,train,train,test,train,test
+V0771,P13,KPRI Kalimantan,Viewing,533,test,train,train,train,train,train,test,train,test
+V0772,P08,UNEJ Mart,No Interest,1013,train,train,test,train,train,test,val,train,test
+V0773,P08,UNEJ Mart,Picking and Putting,584,val,train,test,val,train,test,train,train,test
+V0774,P08,UNEJ Mart,Picking and Returning,1106,train,train,test,train,train,test,train,val,test
+V0775,P08,UNEJ Mart,Touching,1335,train,train,test,train,train,test,train,train,test
+V0776,P08,UNEJ Mart,Touching,557,train,train,test,train,train,test,train,train,test
+V0777,P08,UNEJ Mart,Turning To Shelf,857,val,train,test,train,train,test,train,train,test
+V0778,P08,UNEJ Mart,Viewing,619,train,train,test,train,train,test,train,train,test
+V0779,P09,UNEJ Mart,No Interest,855,train,test,train,train,train,test,train,train,test
+V0780,P09,UNEJ Mart,No Interest,209,train,test,train,train,train,test,train,train,test
+V0781,P09,UNEJ Mart,Picking and Putting,371,train,test,val,train,train,test,train,train,test
+V0782,P09,UNEJ Mart,Picking and Returning,1045,train,test,train,train,train,test,train,train,test
+V0783,P09,UNEJ Mart,Picking and Returning,449,train,test,train,train,train,test,train,train,test
+V0784,P09,UNEJ Mart,Touching,821,val,test,train,train,val,test,train,train,test
+V0785,P09,UNEJ Mart,Turning To Shelf,798,train,test,train,train,train,test,train,train,test
+V0786,P09,UNEJ Mart,Viewing,172,train,test,val,train,train,test,train,train,test
+V0787,P09,UNEJ Mart,Viewing,227,train,test,train,train,train,test,train,train,test
+V0788,P09,UNEJ Mart,Viewing,131,train,test,train,train,train,test,train,train,test
+V0789,P09,UNEJ Mart,Viewing,199,train,test,train,train,train,test,train,train,test
+V0790,P09,UNEJ Mart,Viewing,988,train,test,train,train,train,test,train,train,test
+V0791,P12,UNEJ Mart,No Interest,951,test,train,train,train,train,test,train,train,test
+V0792,P12,UNEJ Mart,Picking and Putting,228,test,train,train,val,train,test,train,train,test
+V0793,P12,UNEJ Mart,Picking and Putting,16,test,train,train,train,train,test,train,train,test
+V0794,P12,UNEJ Mart,Picking and Putting,2,test,train,train,train,train,test,train,train,test
+V0795,P12,UNEJ Mart,Picking and Putting,32,test,train,train,train,train,test,train,train,test
+V0796,P12,UNEJ Mart,Picking and Putting,199,test,train,train,train,train,test,train,train,test
+V0797,P12,UNEJ Mart,Picking and Returning,2804,test,train,train,train,train,test,train,train,test
+V0798,P12,UNEJ Mart,Touching,70,test,train,train,train,train,test,train,train,test
+V0799,P12,UNEJ Mart,Turning To Shelf,334,test,train,train,train,train,test,train,train,test
+V0800,P12,UNEJ Mart,Turning To Shelf,112,test,train,train,train,train,test,train,train,test
+V0801,P12,UNEJ Mart,Viewing,535,test,train,train,train,train,test,train,train,test
+V0802,P07,KPRI Sumatera,No Interest,259,train,test,train,train,test,train,train,train,test
+V0803,P07,KPRI Sumatera,No Interest,285,train,test,train,train,test,train,train,train,test
+V0804,P07,KPRI Sumatera,Picking and Putting,802,val,test,train,train,test,train,train,train,test
+V0805,P07,KPRI Sumatera,Picking and Putting,290,train,test,train,train,test,train,train,train,test
+V0806,P07,KPRI Sumatera,Picking and Returning,780,train,test,train,val,test,train,train,train,test
+V0807,P07,KPRI Sumatera,Touching,2376,train,test,train,train,test,train,train,train,test
+V0808,P07,KPRI Sumatera,Turning To Shelf,1003,train,test,train,train,test,val,train,train,test
+V0809,P07,KPRI Sumatera,Viewing,251,train,test,train,train,test,train,train,train,test
+V0810,P07,KPRI Sumatera,Viewing,572,train,test,train,train,test,train,train,train,test
+V0811,P11,KPRI Sumatera,No Interest,197,train,train,train,test,test,train,val,train,test
+V0812,P11,KPRI Sumatera,No Interest,282,train,train,train,test,test,train,train,train,test
+V0814,P11,KPRI Sumatera,Picking and Returning,1256,train,train,train,test,test,train,train,train,test
+V0815,P11,KPRI Sumatera,Picking and Returning,2484,train,train,train,test,test,train,train,val,test
+V0816,P11,KPRI Sumatera,Touching,1411,train,train,val,test,test,train,train,train,test
+V0817,P11,KPRI Sumatera,Turning To Shelf,1253,train,train,train,test,test,train,train,train,test
+V0818,P11,KPRI Sumatera,Viewing,189,val,train,train,test,test,train,train,train,test
+V0819,P11,KPRI Sumatera,Viewing,496,train,train,train,test,test,train,train,train,test
+V0820,P14,KPRI Sumatera,No Interest,266,train,train,test,train,test,train,train,train,train
+V0821,P14,KPRI Sumatera,No Interest,435,train,train,test,train,test,train,train,train,train
+V0822,P14,KPRI Sumatera,No Interest,413,train,train,test,train,test,train,train,train,train
+V0823,P14,KPRI Sumatera,No Interest,1487,train,train,test,train,test,train,train,train,train
+V0824,P14,KPRI Sumatera,Viewing,305,train,train,test,train,test,val,train,train,train
+V0825,P14,KPRI Sumatera,Viewing,230,train,train,test,train,test,train,val,train,train
+V0826,P14,KPRI Sumatera,Viewing,134,val,train,test,train,test,train,train,val,train
+V0827,P14,KPRI Sumatera,Viewing,457,train,val,test,train,test,train,train,train,train
+V0828,P14,KPRI Sumatera,Viewing,132,train,train,test,train,test,train,train,train,train
+V0829,P14,KPRI Sumatera,Viewing,670,train,train,test,train,test,train,val,train,train
+V0830,P14,KPRI Sumatera,Turning To Shelf,807,train,train,test,train,test,train,train,train,val
+V0831,P14,KPRI Sumatera,Turning To Shelf,863,train,train,test,train,test,train,train,train,train
+V0832,P14,KPRI Sumatera,Turning To Shelf,553,val,train,test,train,test,train,train,val,train
+V0833,P14,KPRI Sumatera,Touching,602,train,train,test,train,test,train,train,train,train
+V0834,P14,KPRI Sumatera,Touching,278,train,train,test,train,test,train,train,train,train
+V0835,P14,KPRI Sumatera,Touching,677,train,train,test,train,test,train,train,train,train
+V0836,P14,KPRI Sumatera,Touching,500,train,train,test,train,test,train,train,train,train
+V0837,P14,KPRI Sumatera,Picking and Returning,761,train,train,test,train,test,train,train,train,train
+V0838,P14,KPRI Sumatera,Picking and Returning,364,train,train,test,train,test,train,val,val,train
+V0839,P14,KPRI Sumatera,Picking and Putting,739,train,train,test,val,test,train,train,train,train

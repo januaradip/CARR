@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use the CARR dataset or this code, please cite the dataset and the data article."
+title: "CARR: Customer Activity Recognition in Retail - benchmark code"
+authors:
+  - family-names: Putra
+    given-names: Januar Adi
+  - family-names: Suciati
+    given-names: Nanik
+  - family-names: Fatichah
+    given-names: Chastine
+  - family-names: Nabil
+    given-names: Fabian
+  - family-names: Ayuningtyas
+    given-names: Tiara Salsabella
+repository-code: "https://github.com/januaradip/CARR"
+license: MIT
+version: 1.0.0
+references:
+  - type: dataset
+    title: "Customer Activity Recognition in Retail (CARR) dataset"
+    authors:
+      - family-names: Putra
+        given-names: Januar Adi
+      - family-names: Suciati
+        given-names: Nanik
+      - family-names: Fatichah
+        given-names: Chastine
+    doi: 10.7910/DVN/CY24UB
+    publisher:
+      name: Harvard Dataverse

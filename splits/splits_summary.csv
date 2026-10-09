@@ -1,0 +1,10 @@
+protocol,train_videos,val_videos,test_videos,train_frames,val_frames,test_frames,test_participants,test_locations,min_test_videos_per_class
+CS1,654,73,106,265068,27832,35019,P02 P04 P12 P13,Alif Store; Budi Jaya Store; Hari Store; KPRI Kalimantan; UNEJ Mart,13
+CS2,666,75,92,262086,29570,36263,P05 P07 P09,Hafidz 1 Store; Hafidz 2 Store; KPRI Sumatera; UNEJ Mart,9
+CS3,691,77,65,263671,30317,33931,P00 P08 P10 P14,Alif Store; KPRI Kalimantan; KPRI Sumatera; UNEJ Mart,8
+CS4,685,75,73,267527,28902,31490,P06 P11,KPRI Sumatera; Senyum 2 Store; Senyum 3 Store,10
+CL1,581,65,187,221746,25228,80945,P00 P01 P02 P03 P05 P07 P11 P14,Alif Store; Hafidz 1 Store; KPRI Sumatera,29
+CL2,582,66,185,222548,25043,80328,P01 P03 P08 P09 P12,Haza Mart; Rehana Store; UNEJ Mart,28
+CL3,542,58,233,221753,22776,83390,P01 P03 P04 P06 P10 P13,Hari Store; KPRI Kalimantan; Senyum 3 Store; Senyum Store,36
+CL4,545,60,228,219220,25443,83256,P01 P03 P04 P05 P06,Budi Jaya Store; Hafidz 2 Store; Senyum 2 Store,36
+CG,686,74,73,253592,27903,46424,P07 P08 P09 P10 P11 P12 P13,KPRI Kalimantan; KPRI Sumatera; UNEJ Mart,9
