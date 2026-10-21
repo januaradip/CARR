@@ -68,7 +68,7 @@ CARR/
 
 Image and label files of a frame share the same name. Each label file contains one line, the target participant.
 On Google Drive, where hundreds of thousands of small files are slow, a *packed* layout is also accepted:
-`dataset/CARR_labels_clean.zip` (manifest and labels), `dataset/CARR_splits.zip` and `dataset/images/*.zip`.
+`dataset/CARR_annotations.zip` (manifest and labels), `dataset/CARR_splits.zip` and `dataset/images/*.zip`.
 
 If the `splits/` folder is missing, recreate it from the manifest:
 
