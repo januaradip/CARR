@@ -11,7 +11,7 @@ detection, activity recognition and person re-identification across videos and s
 
 | | |
 |---|---|
-| Dataset | Harvard Dataverse, [doi:10.7910/DVN/CY24UB](https://doi.org/10.7910/DVN/CY24UB) (first version: Figshare, [doi:10.6084/m9.figshare.29470079](https://doi.org/10.6084/m9.figshare.29470079)) |
+| Dataset | Harvard Dataverse, [doi:10.7910/DVN/CY24UB](https://doi.org/10.7910/DVN/CY24UB) 
 | Data article | *Data in Brief* (under review) |
 | Code licence | MIT |
 
