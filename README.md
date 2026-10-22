@@ -52,7 +52,8 @@ notebooks/
 ## Dataset layout
 
 Download the dataset from Harvard Dataverse, extract `CARR_annotations.zip` and `CARR_splits.zip` into one folder and put the
-image archives `Images_carr_part_*.zip` in `images/` (they can stay zipped). The code expects:
+image archives `Images_carr_part_01.zip` … `Images_carr_part_19.zip` in `images/` (they can stay zipped). `CARR_pose_yolov8m.zip`
+(pre-computed YOLOv8m-Pose keypoints) is optional. The code expects:
 
 ```
 CARR/
@@ -63,6 +64,7 @@ CARR/
 ├── labels_with_person_id/     person_id class_id x_center y_center width height
 ├── classes_and_persons.yaml
 ├── cleaning_log.csv
+├── pose_yolov8m/              optional: 17 COCO keypoints per frame of the annotated participant (one CSV per video)
 └── splits/                    cs1–cs4, cl1–cl4, cg _{train,val,test}.txt and reid/
 ```
 
