@@ -14,7 +14,8 @@ Two dataset layouts are supported (detected automatically):
 
 * packed layout (used for Google Drive, where hundreds of thousands of small files are slow)::
 
-      <data>/dataset/CARR_labels_clean.zip   manifest + labels + labels_with_person_id
+      <data>/dataset/CARR_annotations.zip    manifest + labels + labels_with_person_id
+                                             (older name CARR_labels_clean.zip is also accepted)
       <data>/dataset/CARR_splits.zip         splits/*.txt and splits/reid/*.csv
       <data>/dataset/images/*.zip            JPEG frames
 
@@ -66,14 +67,16 @@ class Paths:
             self.layout = 'release'
             self.images_dir = f'{self.data}/images'
             default_work = os.path.abspath('carr_work')
-        elif os.path.isfile(f'{self.data}/dataset/CARR_labels_clean.zip'):
+        elif any(os.path.isfile(f'{self.data}/dataset/{n}') for n in ('CARR_annotations.zip', 'CARR_labels_clean.zip')):
             self.layout = 'packed'
+            self.labels_zip = next(f'{self.data}/dataset/{n}' for n in ('CARR_annotations.zip', 'CARR_labels_clean.zip')
+                                   if os.path.isfile(f'{self.data}/dataset/{n}'))
             self.images_dir = f'{self.data}/dataset/images'
             default_work = self.data
         else:
             raise FileNotFoundError(
                 f'No CARR dataset found in {self.data}: expected carr_manifest.csv (release layout) '
-                f'or dataset/CARR_labels_clean.zip (packed layout). See README.md.')
+                f'or dataset/CARR_annotations.zip (packed layout). See README.md.')
         self.work = os.path.abspath(work or default_work)
         self.splits_dir = os.path.abspath(splits) if splits else None
         self.cache = f'{self.work}/cache'
@@ -101,14 +104,14 @@ class Paths:
     # ---- public accessors
     def signature(self):
         """Changes when the annotations change, so that cached indices are rebuilt."""
-        p = f'{self.data}/carr_manifest.csv' if self.layout == 'release' else f'{self.data}/dataset/CARR_labels_clean.zip'
+        p = f'{self.data}/carr_manifest.csv' if self.layout == 'release' else self.labels_zip
         return f'{self.layout}-{os.path.getsize(p)}'
 
     def manifest_rows(self):
         if self.layout == 'release':
             with open(f'{self.data}/carr_manifest.csv', encoding='utf-8') as f:
                 return list(csv.DictReader(f))
-        z, n = self._zip_find(f'{self.data}/dataset/CARR_labels_clean.zip', 'carr_manifest.csv')
+        z, n = self._zip_find(self.labels_zip, 'carr_manifest.csv')
         return list(csv.DictReader(io.TextIOWrapper(z.open(n), encoding='utf-8')))
 
     def label_reader(self, folder='labels_with_person_id'):
@@ -116,7 +119,7 @@ class Paths:
         if self.layout == 'release':
             base = f'{self.data}/{folder}'
             return lambda fn: open(f'{base}/{fn}.txt').read()
-        z, names = zipfile.ZipFile(f'{self.data}/dataset/CARR_labels_clean.zip'), None
+        z, names = zipfile.ZipFile(self.labels_zip), None
         names = z.namelist()
         member = [n for n in names if f'{folder}/' in n and n.endswith('.txt')
                   and (folder != 'labels' or 'labels_with_person_id' not in n)][0]
