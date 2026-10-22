@@ -178,7 +178,7 @@ If you use CARR, please cite the dataset and the data article:
 
 ```bibtex
 @misc{putra2026carr_data,
-  author    = {Putra, Januar Adi and Suciati, Nanik and Fatichah, Chastine and Nabil, Fabian and Ayuningtyas, Tiara Salsabella},
+  author    = {Putra, Januar Adi and Suciati, Nanik and Fatichah, Chastine},
   title     = {Customer Activity Recognition in Retail ({CARR}) dataset},
   publisher = {Harvard Dataverse},
   year      = {2026},
